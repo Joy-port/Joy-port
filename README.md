@@ -8,7 +8,7 @@
 
 ### Recently commited Repos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joy-port&repo=github-readme-stats&show_owner=true)](https://github.com/Joy-port/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joy-port&repo=github-readme-stats)](https://github.com/Joy-port/github-readme-stats)
 
 
 ### GitHub Stats
@@ -21,11 +21,3 @@
 
 ### Week Stats
 [![week Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Joy-port)](https://github.com/Joy-port/github-readme-stats)
-
-
-<a href="https://github.com/Joy-port/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Joy-port&repo=github-readme-stats&show_owner=true" />
-</a>
-<a href="https://github.com/Joy-port/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joy-port&layout=compact&langs_count=4" />
-</a>
