@@ -24,10 +24,11 @@
 <summary>📈  Joy's GitHub Stats & Language Card</summary>
 </br>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Joy-port&count_private=true&show_icons=true&theme=ayu-mirage" alt="GitHub Stats" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joy-port&layout=compact&langs_count=4&theme=ayu-mirage" alt="Top Languages Card" />
 
 </br>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joy-port&layout=compact&langs_count=4&theme=ayu-mirage" alt="Top Languages Card" />
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Joy-port&count_private=true&show_icons=true&theme=ayu-mirage" alt="GitHub Stats" />
 
 </details>
 
