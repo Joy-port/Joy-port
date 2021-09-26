@@ -8,7 +8,10 @@ This is Joy's gitHub page, putting all her contribution to make a better online 
 
 <details>
 <summary>Learn more about Joy</summary>
+</br>
+</br>
 
+<div style="text-align:center;">
 
 **Joy's todoist stats**
 <!-- TODO-IST:START -->
@@ -18,6 +21,7 @@ This is Joy's gitHub page, putting all her contribution to make a better online 
 ⏳  Longest streak is 0 days
 <!-- TODO-IST:END -->
 
+</div>
 
 ### Joy's GitHub Stats
 
@@ -32,6 +36,8 @@ This is Joy's gitHub page, putting all her contribution to make a better online 
 <summary>Take a look at Joy's work</summary>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joy-port&repo=github-readme-stats&theme=ayu-mirage&show_owner=true)](https://github.com/Joy-port/github-readme-stats)
+
+[![Joy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Joy-port)](https://github.com/Joy-port/github-readme-stats)
 
 
 </details>
