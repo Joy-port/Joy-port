@@ -6,10 +6,12 @@
 - Currently learning JS and Vue Framework
 - Focusing on making smooth and elegant websites
 
-### 👩🏻‍💻 working on some small projects
+
+<details>
+<summary>👩🏻‍💻 working on some small projects</summary>
 
 <a href="https://github.com/Joy-port/todolist" target="_blank">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Joy-port&repo=todolist&theme=ayu-mirage" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Joy-port&repo=todolist&theme=ayu-mirage" />
 </a>
 <br>
 <a href="https://github.com/Joy-port/week6-exhibinection" target="_blank">
@@ -17,8 +19,14 @@
 </a>
 <br>
 <a href="https://github.com/Joy-port/week8-doyoga" target="_blank">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Joy-port&repo=week8-doyoga&theme=ayu-mirage" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Joy-port&repo=week8-doyoga&theme=ayu-mirage" />
 </a>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Joy-port&repo=todolist&theme=ayu-mirage)](https://github.com/Joy-port/todolist)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Joy-port&repo=week6-exhibinection&theme=ayu-mirage)](https://github.com/Joy-port/week6-exhibinection)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Joy-port&repo=week8-doyoga&theme=ayu-mirage)](https://github.com/Joy-port/week8-doyoga)
+
+</details>
 
 <details>
 <summary>Learn more about Joy</summary>
@@ -36,9 +44,9 @@
 
 <details>
 <summary>Joy's GitHub Stats & Language Card</summary>
-</br>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Joy-port&count_private=true&show_icons=true&theme=ayu-mirage" alt="GitHub Stats" />
 
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Joy-port&count_private=true&show_icons=true&theme=ayu-mirage" alt="GitHub Stats" />
+</br>
 <p align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joy-port&layout=compact&langs_count=4&theme=ayu-mirage" alt="Top Languages Card" />
 
 </details>
