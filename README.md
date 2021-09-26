@@ -40,6 +40,9 @@ This is Joy's gitHub page, putting all her contribution to make a better online 
 
 **spends time on**
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 
