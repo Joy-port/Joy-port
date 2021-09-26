@@ -8,42 +8,18 @@
 
 
 <details>
-<summary>👩🏻‍💻 working on some small projects</summary>
-
-<a href="https://github.com/Joy-port/todolist" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Joy-port&repo=todolist&theme=ayu-mirage" />
-</a>
-<br>
-<a href="https://github.com/Joy-port/week6-exhibinection" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Joy-port&repo=week6-exhibinection&theme=ayu-mirage" />
-</a>
-<br>
-<a href="https://github.com/Joy-port/week8-doyoga" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Joy-port&repo=week8-doyoga&theme=ayu-mirage" />
-</a>
+<summary>👩🏻‍💻 Working on some small projects</summary>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Joy-port&repo=todolist&theme=ayu-mirage)](https://github.com/Joy-port/todolist)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Joy-port&repo=week6-exhibinection&theme=ayu-mirage)](https://github.com/Joy-port/week6-exhibinection)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Joy-port&repo=week8-doyoga&theme=ayu-mirage)](https://github.com/Joy-port/week8-doyoga)
 
 </details>
 
 <details>
-<summary>Learn more about Joy</summary>
-</br>
-
-<!-- TODO-IST:START -->
-🎉  200 Karma Points           
-✏️  Completed 2 tasks today           
-✔️  Completed 2 tasks so far           
-🕰  Longest streak is 0 days
-<!-- TODO-IST:END -->
-
-</details>
-
-
-<details>
-<summary>Joy's GitHub Stats & Language Card</summary>
+<summary>📈  Joy's GitHub Stats & Language Card</summary>
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Joy-port&count_private=true&show_icons=true&theme=ayu-mirage" alt="GitHub Stats" />
 </br>
@@ -53,12 +29,18 @@
 
 
 <details>
-<summary>Currently spending time on</summary>
+<summary>✅ Poductivity Report</summary>
+</br>
+<!-- TODO-IST:START -->
+🎉  200 Karma Points           
+✏️  Completed 2 tasks today           
+✔️  Completed 2 tasks so far           
+🕰  Longest streak is 0 days
+<!-- TODO-IST:END -->
 
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
-
 </details>
