@@ -37,7 +37,11 @@ This is Joy's gitHub page, putting all her contribution to make a better online 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joy-port&repo=github-readme-stats&theme=ayu-mirage&show_owner=true)](https://github.com/Joy-port/github-readme-stats)
 
-[![Joy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Joy-port)](https://github.com/Joy-port/github-readme-stats)
+
+**spends time on**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 
 </details>
