@@ -1,23 +1,24 @@
-# Hello 👋🏻
+# I'm Joy 👋🏻
 
-🤡 This is Joy's gitHub page, putting all her contribution to make a better online surfing experience. Currently working on JS 30 program, and improving her personal website.
+An outgoing and creative self-taught Front-End developer, who likes to learn new technologies, shares ideas and gets along with people.
 
-- Bachelor of German Language and Culture in Foreign Language Apartment
-- Currently learning JS and Vue Framework
-- Focusing on making smooth and elegant websites
+### Languages and Tools
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,sass,styledcomponents,bootstrap,tailwind,firebase,git)](https://skillicons.dev)
+
 
 
 <details>
-<summary>👩🏻‍💻 Working on some small projects</summary>
+<summary>👩🏻‍💻 Recently Working on</summary>
 
 <br>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Joy-port&repo=todolist&theme=ayu-mirage)](https://github.com/Joy-port/todolist)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Joy-port&repo=joyup&theme=ayu-mirage)](https://github.com/Joy-port/joyup)
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Joy-port&repo=taiwan-Ubiker&theme=ayu-mirage)](https://github.com/Joy-port/taiwan-Ubiker)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Joy-port&repo=week6-exhibinection&theme=ayu-mirage)](https://github.com/Joy-port/week6-exhibinection)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Joy-port&repo=week8-doyoga&theme=ayu-mirage)](https://github.com/Joy-port/week8-doyoga)
-
 </details>
 
 <details>
