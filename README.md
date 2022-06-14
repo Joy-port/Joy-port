@@ -50,10 +50,9 @@ An outgoing and creative self-taught Front-End developer, who likes to learn new
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   3 hrs 57 mins   ███████████████████████▒░   93.60 %
-JSON         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
-CSS          6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+JavaScript   2 hrs 23 mins   ███████████████████████▒░   93.95 %
+JSON         9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
