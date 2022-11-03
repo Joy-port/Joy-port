@@ -50,10 +50,10 @@ An outgoing and creative self-taught Front-End developer, who likes to learn new
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   27 hrs 19 mins  ███████████████████████░░   92.21 %
-JavaScript   1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
-GraphQL      34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
-JSON         30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+TypeScript   28 hrs 21 mins  ███████████████████████▓░   94.90 %
+GraphQL      39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+JSON         31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+JavaScript   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
 Other        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
