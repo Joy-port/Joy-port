@@ -40,9 +40,9 @@ An outgoing and creative self-taught Front-End developer, who likes to learn new
 </br>
 
 <!-- TODO-IST:START -->
-🏆  4,879 Karma Points           
+🏆  5,154 Karma Points           
 🌸  Completed 0 tasks today           
-✅  Completed 332 tasks so far           
+✅  Completed 373 tasks so far           
 ⏳  Longest streak is 3 days
 <!-- TODO-IST:END -->
 
